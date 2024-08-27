@@ -1,0 +1,12 @@
+
+    .drum-pad {
+      width: 100px;
+      height: 100px;
+      background-color: rgb(159, 43, 226);
+      margin: 5px;
+      text-align: center;
+      line-height: 100px;
+      font-size: 20px;
+      cursor: pointer;
+    }
+  
